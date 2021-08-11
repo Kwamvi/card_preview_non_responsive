@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Lexend+Deca&display=swap');
+
+#firstfont
+{
+	font-size: 30px;
+	font-family: Inter;
+	font-weight: 700;
+}
+
+.insights
+{
+	color: #C898E6;
+}
+
+#dis
+{
+	font-family: Inter;
+	font-weight: lighter;
+	color: #FFFFFFC0;
+	line-height: 29px;
+	font-size: 18px;
+
+
+}
+
+
+.k
+{
+	font-family: Inter;
+	font-weight: 700;
+	font-size: 23px;
+}
+
+.qua
+{
+	font-family: Inter;
+	font-weight: 700;
+	font-size: 23px;
+}
+
+.ze
+{
+    font-family: Inter;
+	font-weight: 700;
+	font-size: 23px;
+}
+
+.co
+{	
+	text-transform: uppercase;
+	font-family: Lexend Deca;
+	font-size: 15px; 
+	color: #FFFFFF99;
+}
+
+.tem
+{
+	text-transform: uppercase;
+	font-family: Lexend Deca;
+	font-size:15px;
+	color: #FFFFFF99;
+
+}
+
+.que
+{
+	text-transform: uppercase;
+	font-family: Lexend Deca;
+	font-size:15px; 
+	color: #FFFFFF99;	
+}
+
+#global
+{
+	padding-left: 46px;
+	padding-right:92px;
+	padding-top: 23px;
+	background-color: #1B1938;
+	height: 423px;
+	border-radius: 5px 0px 0px 5px;
+}
+
+#pref
+{
+	display: flex;
+	flex-wrap: wrap;
+	padding-top: 80px;
+	padding-bottom: 0px;
+	font-size: 20px;
+	justify-content: space-between;
+}
+
+p
+{
+	color: white;
+}
+
+body
+{
+	margin: 100px;
+	background-color: #090B1A;
+	
+	
+
+}   
+
+#ngl
+{
+	display: flex;
+	justify-content: center;
+}
+
+.pictu
+{
+	border-radius: 0px 5px 5px 0px;
+}
+
+#credit
+{
+	display: flex;
+	justify-content: center;
+
+}
+
+#chal
+{
+	padding-right: 7px;
+}
+
+#cod
+{
+	padding-right: 7px;
+}
+
